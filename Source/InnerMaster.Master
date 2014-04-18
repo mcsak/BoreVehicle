@@ -1,0 +1,52 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="InnerMaster.master.cs" Inherits="Source.InnerMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="CSS/Common.css"  rel="Stylesheet" type="text/css" />
+    <link href="CSS/Login.css" rel="Stylesheet" type="text/css" />
+    <script language="javascript" type="text/javascript" src="Scripts/jquery-1.5.1.min.js"></script>
+    <script type="text/javascript" src="../Scripts/Common.js"></script>
+   
+    <asp:ContentPlaceHolder ID="ContentPlaceHolderHead" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <asp:ScriptManager ID="ScriptMgr" runat="server" EnablePartialRendering="true" EnablePageMethods="true"></asp:ScriptManager>
+      <div class="maincontainer">
+        <div class="maininnercontainer">
+            <div class="bannermaincontainer">
+                <UC:Banner ID="banner" runat="server"></UC:Banner>
+                
+            </div>
+            
+            <div class="mainbodycontainer">
+            <asp:UpdatePanel ID="updpnlMaster" runat="server" UpdateMode="Conditional">
+                <ContentTemplate>
+                <UC:PageMessage ID="PageMessage" runat="server" /> 
+                </ContentTemplate>
+                <Triggers>
+                <asp:AsyncPostBackTrigger ControlID="PageMessage" />
+                </Triggers>
+                </asp:UpdatePanel>
+                                    
+                <asp:ContentPlaceHolder ID="ContentPlaceHolderMain" runat="server">
+                
+                
+                
+                </asp:ContentPlaceHolder>
+            </div>
+            <div class="footermaincontainer">
+            <UC:Footer ID="footer" runat="server"></UC:Footer>
+            </div>
+        </div>
+    </div>
+        <div class="divPopupBackground"></div>   
+
+
+    </form>
+</body>
+</html>

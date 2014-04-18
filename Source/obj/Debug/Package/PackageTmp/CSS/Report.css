@@ -1,0 +1,295 @@
+﻿
+
+.reportcentercontainer
+{
+  margin:0 auto;
+  width:500px;
+  margin-top:50px;
+}
+.divreportsinglecontainer
+{
+    float:left;
+    width:100%;
+    margin-bottom:10px;
+}
+.divreportleftcontainer
+{
+    float:left;
+    width:120px;
+    margin-right:5px;
+    font-family:Calibri;
+    font-size:14px;
+    margin-left:55px;
+}
+.totalsinglerow
+{
+    float:left;
+    width:280px;
+}
+.divreportrightcontainer
+{
+    float:left;
+    width:300px;
+}
+
+.DivMonthStatuslistContainer
+{
+    text-align:center;
+}
+  .innerContainerSiteManagement
+    {
+        width:800px;
+        margin:0 auto;
+        clear:both;
+        padding: 10px 10px 5px 10px;
+        border-radius:5px 5px 5px 5px;
+        float: left; 
+        height: 220px; 
+    }
+  .innerContainerSiteManagementOut
+    {
+        width:800px;
+        margin:0 auto;
+        clear:both;
+        padding: 10px 10px 5px 10px;
+        border-radius:5px 5px 5px 5px;
+        /*float: left; 
+        height: 200px; */
+    }
+/******************************Casing ***************************/
+
+ .outerContainer
+    {
+        clear:both;
+        width:100%;
+        margin:0 auto;
+    }
+    .mainContainer
+    {
+        clear:both;
+        margin:0 auto;
+        width:1002px;
+    }
+    .innerContainer
+    {
+        width:750px;
+        margin:0 auto;
+        clear:both;
+        padding: 10px 40px 5px 10px;
+        border-radius:5px 5px 5px 5px;
+    }
+    .siteManagementleft
+    {
+        width:390px;
+        float:left;
+        clear:both;
+         
+    }
+    .siteManagementright
+    {
+        width:390px;
+        float:right;
+         
+    }
+    .siteManagementRow
+    {
+    width:400px;
+    clear:both;
+    float:left;
+    height:30px;
+    }
+    .siteManagementRowtextarea
+    {
+    width:640px;
+    clear:both;
+    float:left;
+    height:65px;
+    }
+.casingInwardcontainer
+    {
+        width:300px;
+        clear:both;
+        margin:0 auto;
+    }
+    .divheight
+    {
+        clear:both;
+        float:left;
+        height:20px;
+    }
+    .divColumnleft
+    {
+        float:left;
+        width:140px;
+    }
+    .divColumnright
+    {
+        padding-left:3px;
+        float:left;
+    }
+    
+    
+    
+    /*******************************Balance************************************/
+    
+    .BalanceCenterContainer
+    {
+        margin:0 auto;
+        width:700px;
+    }
+    
+    .showBalanceDetailpopup
+    {
+         margin:0 auto;
+	position:absolute;
+	width:700px;
+	background-color:#ffffff;
+	padding:0px 0 20px 0;
+	border-radius:5px 5px 5px 5px;	
+	display:none;
+    }
+    .reportclose
+{
+    float: left; 
+    width: 98%; 
+    height: 100%; 
+    margin-top: 5px; 
+    text-align: right;
+    cursor: pointer;
+}
+.balancepopupheaderheader
+{
+	clear:both;
+	float:left;
+	width:100%;
+	text-align:center;
+	margin:0 0 10px 0;
+	font-size:15px;
+	font-weight:bold;
+}
+.balanceinnercontainerpopup
+{
+    float:left;
+    width:95%;
+    margin-left:10px;
+    margin-right:10px;
+    margin-bottom:10px;
+    min-height:80px;
+}
+.balancedetailpopcontent
+{
+    width:65%;
+   float:left;
+   margin-left:165px;
+  height:50px;
+}
+.balancepopsingle
+{
+    float:left;
+    width:200px;
+    font-size:14px;
+}
+
+
+/**********************************************Site Management Billing**************************************/
+
+.SMBillingcentercontainer
+{
+  margin:0 auto;
+  width:950px;
+  margin-top:50px;
+}
+
+.SMBillinginnercontainer
+    {
+        float:left;
+        width:430px;
+        margin:0 auto;
+        padding: 10px 40px 5px 10px;
+        border-radius:5px 5px 5px 5px;
+    }
+    .BillingLeftContainer
+    {
+        float:left;
+       width:480px;
+    }
+    .BillingRightContainer
+    {
+        float:left;
+        width:400px;
+    }
+    .radiobuttondiv
+    {
+        float:left;
+        width:300px;
+        padding-left:50px;
+         font-family:Calibri;
+    font-size:14px;
+    }
+    /* For month status report*/
+.divrbtnMonthStatus
+{
+  
+   text-align:center 
+}
+.divrbtnMonthStatuscontainer
+{
+    margin-left:250px;
+     width:500px;
+}
+/*********************************Billing Popo up Design***********************/
+.showdrillingbillingpopup
+    {
+         margin:0 auto;
+	position:absolute;
+	width:700px;
+	background-color:#ffffff;
+	padding:0px 0 20px 0;
+	border-radius:5px 5px 5px 5px;	
+	display:none;
+    }
+    .showcasingbillingpopup
+    {
+         margin:0 auto;
+	position:absolute;
+	width:700px;
+	background-color:#ffffff;
+	padding:0px 0 20px 0;
+	border-radius:5px 5px 5px 5px;	
+	display:none;
+    }
+    .reportclose
+{
+    float: left; 
+    width: 98%; 
+    height: 100%; 
+    margin-top: 5px; 
+    text-align: right;
+    cursor: pointer;
+}
+.billingdrillcaseinner
+{
+    float:left;
+    margin:10px;
+    width:650px;
+}
+.singlerowbox
+{
+    float:left;
+    width:650px;
+}
+.singlecolumnbox
+{
+    float:left;
+    width:80px;
+}
+.popupdrilllblbox
+{
+    float:right;
+    padding-right:20px;
+}
+.drillpopupgrantbox
+{
+    float:right;
+    padding-right:13px;
+}

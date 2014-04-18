@@ -1,0 +1,5 @@
+D:\Projects\CS_TFS\BoreVehicle\BoreVehicleERP\SourceMaster\BoreVehicleClassLibrary\bin\Release\BoreVehicleClassLibrary.dll
+D:\Projects\CS_TFS\BoreVehicle\BoreVehicleERP\SourceMaster\BoreVehicleClassLibrary\bin\Release\BoreVehicleClassLibrary.pdb
+D:\Projects\CS_TFS\BoreVehicle\BoreVehicleERP\SourceMaster\BoreVehicleClassLibrary\obj\Release\BoreVehicleClassLibrary.dll
+D:\Projects\CS_TFS\BoreVehicle\BoreVehicleERP\SourceMaster\BoreVehicleClassLibrary\obj\Release\BoreVehicleClassLibrary.pdb
+D:\Projects\CS_TFS\BoreVehicle\BoreVehicleERP\SourceMaster\BoreVehicleClassLibrary\obj\Release\BoreVehicleClassLibrary.csprojResolveAssemblyReference.cache

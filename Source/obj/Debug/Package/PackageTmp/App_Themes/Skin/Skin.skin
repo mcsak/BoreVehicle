@@ -1,0 +1,21 @@
+﻿
+<asp:Button runat="server" CssClass="btnCommonstyle" />
+
+
+<asp:GridView runat="server" AutoGenerateColumns="false" HeaderStyle-ForeColor="#ffffff" 
+PagerStyle-HorizontalAlign="Center" PagerStyle-Width="100%" PagerStyle-Font-Size="13px" PagerSettings-Mode="Numeric"
+PagerStyle-CssClass="adminpagerstyle" PageSize="10"  AllowPaging="true" AllowSorting="true" width="100%"  PagerSettings-PageButtonCount="5">  
+<HeaderStyle CssClass="gridheader" />
+<RowStyle CssClass="gridrow" />
+<AlternatingRowStyle CssClass="gridalterrow" /> 
+</asp:GridView>
+
+
+
+<asp:GridView runat="server" SkinID="PopupViewAllGrid" AutoGenerateColumns="false" HeaderStyle-ForeColor="#000000"  PagerStyle-CssClass="ClientReportPagerStyle"
+PagerStyle-HorizontalAlign="Center" PagerStyle-Width="100%" PagerStyle-Font-Size="13px" PagerSettings-Mode="Numeric"
+PageSize="10"  AllowPaging="true" AllowSorting="true" width="100%" PagerSettings-PageButtonCount="5">  
+<HeaderStyle CssClass="ClientReportgridheader" />
+<RowStyle CssClass="ClientReportgridrow" />
+<AlternatingRowStyle CssClass="ClientReportgridalterrow" /> 
+</asp:GridView>

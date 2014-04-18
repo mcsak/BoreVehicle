@@ -1,0 +1,14 @@
+D:\Projects\CS_TFS\BoreVehicle\BoreVehicleERP\SourceMaster\BoreVehicleClassLibrary\bin\Debug\BoreVehicleClassLibrary.dll
+D:\Projects\CS_TFS\BoreVehicle\BoreVehicleERP\SourceMaster\BoreVehicleClassLibrary\bin\Debug\BoreVehicleClassLibrary.pdb
+D:\Projects\CS_TFS\BoreVehicle\BoreVehicleERP\SourceMaster\BoreVehicleClassLibrary\obj\Debug\BoreVehicleClassLibrary.dll
+D:\Projects\CS_TFS\BoreVehicle\BoreVehicleERP\SourceMaster\BoreVehicleClassLibrary\obj\Debug\BoreVehicleClassLibrary.pdb
+D:\MarselProject\BoreVehicle\BoreVehicleERP\SourceMaster\BoreVehicleClassLibrary\bin\Debug\BoreVehicleClassLibrary.dll
+D:\MarselProject\BoreVehicle\BoreVehicleERP\SourceMaster\BoreVehicleClassLibrary\bin\Debug\BoreVehicleClassLibrary.pdb
+D:\MarselProject\BoreVehicle\BoreVehicleERP\SourceMaster\BoreVehicleClassLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\MarselProject\BoreVehicle\BoreVehicleERP\SourceMaster\BoreVehicleClassLibrary\obj\Debug\BoreVehicleClassLibrary.dll
+D:\MarselProject\BoreVehicle\BoreVehicleERP\SourceMaster\BoreVehicleClassLibrary\obj\Debug\BoreVehicleClassLibrary.pdb
+D:\PRO-REL\PROJECTS\BoreVehicle\BoreVehicleERP\SourceMaster\BoreVehicleClassLibrary\bin\Debug\BoreVehicleClassLibrary.dll
+D:\PRO-REL\PROJECTS\BoreVehicle\BoreVehicleERP\SourceMaster\BoreVehicleClassLibrary\bin\Debug\BoreVehicleClassLibrary.pdb
+D:\PRO-REL\PROJECTS\BoreVehicle\BoreVehicleERP\SourceMaster\BoreVehicleClassLibrary\obj\Debug\BoreVehicleClassLibrary.dll
+D:\PRO-REL\PROJECTS\BoreVehicle\BoreVehicleERP\SourceMaster\BoreVehicleClassLibrary\obj\Debug\BoreVehicleClassLibrary.pdb
+D:\Projects\CS_TFS\BoreVehicle\BoreVehicleERP\SourceMaster\BoreVehicleClassLibrary\obj\Debug\BoreVehicleClassLibrary.csprojResolveAssemblyReference.cache

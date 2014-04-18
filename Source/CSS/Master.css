@@ -1,0 +1,197 @@
+﻿/******************************Master Page***************************/
+
+.mastercentercontainer
+{
+  margin:0 auto;
+  width:380px;
+  margin-top:50px;
+}
+.divmastersinglecontainer
+{
+    float:left;
+    width:100%;
+    margin-bottom:10px;
+}
+.divmasterleftcontainer
+{
+    float:left;
+    width:120px;
+    margin-right:5px;
+    font-family:Calibri;
+    font-size:14px;
+    margin-left:55px;
+}
+.divmasterrightcontainer
+{
+    float:left;
+    width:200px;
+}
+
+/*********************************HR Payroll *************************/
+
+
+.HRpayrollcentercontainer
+{
+  margin:0 auto;
+  width:380px;
+  margin-top:50px;
+}
+.divHRpayrollsinglecontainer
+{
+    float:left;
+    width:100%;
+    margin-bottom:10px;
+}
+.divHRpayrollleftcontainer
+{
+    float:left;
+    width:120px;
+    margin-right:5px;
+    font-family:Calibri;
+    font-size:14px;
+    margin-left:55px;
+}
+.divHRpayrollrightcontainer
+{
+    float:left;
+    width:190px;
+}
+
+/***************************Expenses****************************************/
+
+
+.Expensescentercontainer
+{
+  margin:0 auto;
+  width:380px;
+  margin-top:50px;
+ }
+ .BitExpensescentercontainer
+{
+  margin:0 auto;
+  width:385px;
+  margin-top:50px;
+ }
+ .BitReplacementcentercontainer
+{
+  margin:0 auto;
+  width:455px;
+  margin-top:50px;
+ }
+.diselexpensesrightcontainer
+{
+  margin:0 auto;
+  width:250px;
+   float:right;
+  margin:40px 50px 0 0;
+}
+.divExpensessinglecontainer
+{
+    float:left;
+    width:100%;
+    margin-bottom:10px;
+}
+.divExpensesleftcontainer
+{
+    float:left;
+    width:120px;
+    margin-right:5px;
+    font-family:Calibri;
+    font-size:14px;
+    margin-left:55px;
+}
+.dieselExpensesleftcontainer
+{
+    float:left;
+    width:60px;
+    margin-right:5px;
+    font-family:Calibri;
+    font-size:14px;
+    margin-left:55px;
+    text-align:left;
+}
+.divExpensesrightcontainer
+{
+    float:left;
+    width:200px;
+}
+.bitExpensestextboxcontainer
+{
+    float:left;
+    width:205px;
+}
+.bitReplacementtextboxcontainer
+{
+    float:left;
+    width:275px;
+}
+.bitVendorDetailContainer
+{
+    float:left;
+    width:800px;
+    margin-left:130px;
+    padding:10px;
+    border:solid 1px silver;
+    border-radius:5px;
+}
+.bitVendorDetailSinglewhole
+{
+    float:left;
+    width:100%;
+}
+.bitVendorDetailSingle
+{
+    float:left;
+    width:340px;
+    height:25px;
+}
+.bitVendorLeftContainer
+{
+    float:left;
+        width:120px;
+    margin-right:5px;
+    font-family:Calibri;
+    font-size:14px;
+}
+.bitVendorRightContainer
+{
+    float:left;
+    width:180px;
+}
+.bitVendorAmountLeftContainer
+{
+    float:left;
+    width:120px;
+    font-size:14px;
+       margin-right:5px;
+}
+.bitVendorAmountRightContainer
+{
+    float:left;
+    width:60px;
+}
+
+.bitVendorAmountContainer
+{
+float:left;
+width:250px;
+margin-right:5px;
+height:35px;
+}
+.bitvendorSubmitbtnContainer
+{
+    width:100%;
+    float:left;
+    text-align:center;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+/* For the banner items styles are added here.*/
+.ddlvehicleMaster
+{
+    width:200px;
+}
+
+
+
